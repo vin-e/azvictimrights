@@ -1,0 +1,6 @@
+Site Pages:
+- the main page
+- an about-us page that shows both profiles,
+- an FAQ page
+- a contact us page
+- a resources page
