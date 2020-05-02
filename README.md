@@ -25,5 +25,5 @@ What we'll be working on
 URLs for content
 ----------------
 - charity's site: https://www.azvictimrights.org/
-- GitHub project: https://github.com/orgs/GiveCampOfArizona/projects/1
+- GitHub project: https://github.com/GiveCampOfArizona/azvictimrights/projects/1
 - This repo: https://github.com/GiveCampOfArizona/azvictimrights/issues
